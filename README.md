@@ -15,7 +15,10 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```shell
 choco install autoit
 choco install python
+choco install appium-desktop
 ```
+
+https://github.com/appium/appium-desktop/releases
 
 ## Install RIDE
 
